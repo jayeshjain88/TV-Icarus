@@ -17,8 +17,9 @@ See demo website here: [http://demo.gotux.net/tvicarus/] (http://demo.gotux.net/
 
 1. Download latest version of TV-Icarus from GitHub.
 2. Extract and place TV-Icarus files in your web root.
-3. Change /static/cache/ and tvicarus/cache/ directories permisson to 777.
-4. Use .htaccess for Apache and proper Nginx rules.
+3. Configure /tvicarus/config/tvicarus.php (optional).
+4. Change /static/cache/ and tvicarus/cache/ directories permisson to 777.
+5. Use .htaccess for Apache and proper Nginx rules.
 
 ### Apache .htaccess
 ```
