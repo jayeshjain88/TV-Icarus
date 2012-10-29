@@ -1,4 +1,4 @@
-# [TV-Icarus] (http://gotux.net)
+# [TV-Icarus] (http://tvicarus.com/)
 
 ## Features
 
@@ -11,7 +11,7 @@
 * Whole script cache feature (optional).
 * Pre-Cache of some xml files feature (optional).
 
-See demo website here: [http://demo.gotux.net/tvicarus/] (http://demo.gotux.net/tvicarus/)
+See demo website here: [http://tvicarus.com/] (http://tvicarus.com/)
 
 ## Quick Start
 

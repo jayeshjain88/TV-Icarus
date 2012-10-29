@@ -1,4 +1,4 @@
-# [TV-Icarus] (http://gotux.net)
+# [TV-Icarus] (http://tvicarus.com/)
 
 Version history and changes.
 
