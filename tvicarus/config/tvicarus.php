@@ -2,9 +2,8 @@
 
 // TV-Icarus v2 Coded by TuxLyn
 
-
 // Website title
-$config['title'] = 'TV-Icarus v2';
+$config['title'] = 'TV Icarus';
 
 // Website tagline
 $config['tagline'] = 'Your own source of fresh tv news.';
