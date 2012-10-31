@@ -12,7 +12,6 @@ Coded by TuxLyn <[http://gotux.net/] (http://gotux.net/)>
 * Pre-Cache of some xml files feature (optional).
 
 See live demo website at [http://tvicarus.com/] (http://tvicarus.com/)
-(There is no ads included in the actual script, ads are only on demo website.)
 
 ## Quick Start
 1. Download latest version of TV-Icarus from GitHub.
