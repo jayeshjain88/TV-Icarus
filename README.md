@@ -1,7 +1,7 @@
 # [TV-Icarus] (http://tvicarus.com/)
 Coded by TuxLyn <[http://gotux.net/] (http://gotux.net/)>
 
-## Features
+### Features
 * Clean URLs and SEO ready meta tags.
 * Easy navigation with quickbar and pagination.
 * Auto-generated meta tags for per show page.
@@ -11,9 +11,9 @@ Coded by TuxLyn <[http://gotux.net/] (http://gotux.net/)>
 * Whole script cache feature (optional).
 * Pre-Cache of some xml files feature (optional).
 
-See live demo website at [http://tvicarus.com/] (http://tvicarus.com/)
+*See live demo website at [http://tvicarus.com/] (http://tvicarus.com/)*
 
-## Quick Start
+### Quick Start
 1. Download latest version of TV-Icarus from GitHub.
 2. Extract and place TV-Icarus files in your web root.
 3. Configure /tvicarus/config/tvicarus.php (optional).
@@ -55,12 +55,7 @@ location ~ \.php$ {
 ```
 For more information on how to properly configure Nginx web server, please see my wiki at [http://wiki.gotux.net/tutorials/software/nginx] (http://wiki.gotux.net/tutorials/software/nginx)
 
-## Info
-* Source: [https://github.com/GoTux/TV-Icarus] (https://github.com/GoTux/TV-Icarus)
-* Homepage: [http://gotux.net] (http://gotux.net)
-* Twitter: [@gotux] (http://twitter.com/gotux)
-
-## Credits
+### Credits
 * [TVRage] (http://www.tvrage.com/) for there great API service.
 * [CodeIgniter] (http://codeigniter.com/) PHP5 Framework.
 * [Smarty] (http://www.smarty.net/) Template Engine Framework.
