@@ -62,6 +62,9 @@ For more information on how to properly configure Nginx web server, please see m
 
 ## Credits
 * [TVRage] (http://www.tvrage.com/) for there great API service.
-* [CodeIgniter] (http://codeigniter.com/) and Smarty frameworks.
+* [CodeIgniter] (http://codeigniter.com/) PHP5 Framework.
+* [Smarty] (http://www.smarty.net/) Template Engine Framework.
+* [JQuery] (http://jquery.com/) JavaScript Library Framework.
+* [Jquery UI] (http://jqueryui.com/) JavaScript Library User Interface.
 * [HTML5Shiv] (http://html5shiv.googlecode.com/svn/trunk/html5.js) HTML5 elements support.
 * [FamFamFam] (http://famfamfam.com/) icons set by Mark James.
