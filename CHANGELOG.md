@@ -3,6 +3,9 @@ Coded by TuxLyn <[http://gotux.net/] (http://gotux.net/)>
 
 Version history and changes.
 
+### 2.2 (November 3, 2012)
+* Updated Smarty 3.1-DEV to 3.1.12-STABLE
+
 ### 2.1 (October 30, 2012)
 * Updated JQuery from v1.8 to v1.8.2
 * Updated JQuery UI from v1.8.23 to v1.9.1
